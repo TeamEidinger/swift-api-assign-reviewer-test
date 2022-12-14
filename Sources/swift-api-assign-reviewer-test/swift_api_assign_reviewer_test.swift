@@ -4,4 +4,8 @@ public struct swift_api_assign_reviewer_test {
     public init() {
         // dummy change
     }
+
+    public func test() {
+        // requires reviewer
+    }
 }
